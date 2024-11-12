@@ -1,0 +1,1 @@
+Simple recipe app where you can search for recipe , add it to favourites and delete it from there , also you can see the information of some recipe I used Jetpack compose as the main UI design framework , MVVI as architecture pattern , Retrofit for API queries , Room DB as a database and coroutines for async programming.
